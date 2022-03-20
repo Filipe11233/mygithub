@@ -1,0 +1,62 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+
+body {
+   padding-bottom: 50px;
+   background-color: white;
+   min-height: 1600px;
+}
+.page-container {
+   padding: 20px 10px;
+   width: 100%;
+   max-width: 650px;
+   margin: auto;
+   text-align: left;
+   background-color: white;
+   
+}
+
+.parallax {
+	background-attachment: fixed;
+   
+}
+
+.hero2 {
+   width: 100%;
+   height: 700px;
+   position: relative;
+   display: flex;
+   align-items: center;
+
+   
+}
+
+.white {
+   background-color: #FFF;
+}
+
+.purple {
+   background-color: #000000				;
+}
+
+
+.hero2 .content {
+
+   font-family: 'Poppins', sans-serif;
+   color: white;
+   text-align: left;
+   margin-left: 10%;
+}
+
+.hero2 .content h2 {
+   font-size: 80px; 
+   line-height: 90px;
+   margin: 0;   
+}
+
+
+
+
